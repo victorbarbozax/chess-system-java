@@ -21,7 +21,7 @@ public class ChessMatch {
 				mat[i][j] = (ChessPiece) board.piece(i, j);
 			}
 		}
-		return mat;
+		return mat; 
 	}
 	private void initialSetup() {
 		board.placePiece(new Rook(board, Color.WHITE), new Position(2, 1));
