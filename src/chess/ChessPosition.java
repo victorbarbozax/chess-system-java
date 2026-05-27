@@ -27,7 +27,7 @@ public class ChessPosition {
 		return row;
 	}
 
-	public void setRow(char row) {
+	public void setRow(int row) {
 		this.row = row;
 	}
 	
