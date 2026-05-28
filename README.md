@@ -7,6 +7,11 @@
 > A fully object-oriented chess engine built from scratch in Java,  
 > designed with clean architecture, layered design patterns, and terminal-based gameplay.
 
+![Java](https://img.shields.io/badge/Java-26-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-Layered%20OOP-green?style=for-the-badge)
+
 
 </div>
 
